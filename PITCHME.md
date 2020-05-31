@@ -10,6 +10,15 @@
 
 ---
 
+### sli.doによる質問(Q&A)を受け付けますので、ぜひご参加ください
+
+![Image](https://i.imgur.com/NdMOhwD.png)
+
+- URL https://app.sli.do/event/lfhpnzzh
+- event code #88763
+  
+---
+
 ### introduction (Mr.A)
 
 +++
