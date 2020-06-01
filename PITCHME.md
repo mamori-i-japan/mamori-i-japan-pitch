@@ -170,7 +170,8 @@
 ---
 
 ### 匿名性への配慮 (認証,ID生成)
-###### Support Anonymous users (Authentication, ID generation)
+###### Support Anonymous users 
+###### (Authentication, ID generation)
 
 #### speakers
 - BE: **Yash Murty** , 御供翔豪
@@ -204,7 +205,7 @@
 
 +++
 
-@snap[north span-88]
+@snap[north span-89]
 ![Authentication](https://raw.githubusercontent.com/mamori-i-japan/mamori-i-japan-api/master/docs/auth.svg)
 @snapend
 
