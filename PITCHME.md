@@ -170,7 +170,7 @@
 ---
 
 ### 匿名性への配慮 (認証,ID生成)
-### Support Anonymity (Authentication, ID generation)
+###### Support Anonymous users (Authentication, ID generation)
 
 #### speakers
 - BE: **Yash Murty** , 御供翔豪
