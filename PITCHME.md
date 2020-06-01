@@ -186,7 +186,9 @@
 
 +++
 
+@snap[north span-100]
 #### 採用した技術 / Technology adopted
+@snapend
 
 @snap[west span-55]
 ###### Firebase Authentication
@@ -199,8 +201,6 @@
 @snap[north-east span-45]
 ![Firebase](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg)
 @snapend
-
-
 
 +++
 
