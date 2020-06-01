@@ -209,7 +209,7 @@
 @snapend
 
 @snap[span-100]
-![Authentication](https://github.com/mamori-i-japan/mamori-i-japan-api/blob/master/docs/auth.svg)
+![Authentication](https://raw.githubusercontent.com/mamori-i-japan/mamori-i-japan-api/master/docs/auth.svg)
 @snapend
 
 +++
