@@ -138,37 +138,58 @@
 
 ### App Demo
 
----
-
-### Architecture
-
----
-
-### speakers talk (infra)
+#### speakers
+- 平田大祐
+- 全員
 
 ---
 
-### speakers talk (auth)
+### アーキテクチャ, 技術スタック
+
+#### speakers
+- BE: 御供翔豪, Yash Murty
+- FE: 中平健太, 松熊俊和, 大澤由憲
+
++++
+
+### reference
+
+- https://github.com/mamori-i-japan/mamori-i-japan-api
 
 ---
 
-### speakers talk (iOS)
+### 匿名性への配慮 (認証,ID生成)
+
+#### speakers
+- BE: 御供翔豪, Yash Murty
+- FE: 中平健太
+
++++
+
+### reference
+
+- https://github.com/mamori-i-japan/mamori-i-japan-api/tree/master/docs
 
 ---
 
-### speakers talk (Android)
+### BLE制御
+
+#### speakers
+- FE: 大塚雅和, 松熊俊和, 大澤由憲
 
 ---
 
-### speakers talk (management)
+### プロジェクト進行の工夫や課題
+
+#### speakers
+- BE: 御供翔豪, Yash Murty
+- FE: 中平健太, 松熊俊和, 大澤由憲
 
 ---
 
-### speakers talk (from Doctor)
+### EoP
 
----
-
-### others
+- ありがとうございました!
 
 ---
 
