@@ -190,7 +190,7 @@
 #### 採用した技術 / Technology adopted
 @snapend
 
-@snap[west span-55 text-06]
+@snap[west span-55 text-08]
 ###### Firebase Authentication
 - Anonymous Authentication
   - For iOS/Android Users
