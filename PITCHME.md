@@ -166,6 +166,14 @@
 
 +++
 
+### topic
+
+- 認証シーケンス
+- 採用した技術
+- 認証処理クライアントの話
+
++++
+
 ### reference
 
 - https://github.com/mamori-i-japan/mamori-i-japan-api/tree/master/docs
@@ -175,7 +183,15 @@
 ### BLE制御
 
 #### speakers
-- FE: 大塚雅和, 松熊俊和, 大澤由憲
+- BLE: 大塚雅和
+- FE: 中平健太, 松熊俊和, 大澤由憲
+
++++
+
+### topic
+
+- BLE周りの実装経緯
+- BLE実装技術解説
 
 ---
 
@@ -184,6 +200,14 @@
 #### speakers
 - BE: 御供翔豪, Yash Murty
 - FE: 中平健太, 松熊俊和, 大澤由憲
+
++++
+
+### topic
+
+- 要件/仕様まわり
+- インターフェース整合性
+- その他
 
 ---
 
