@@ -136,11 +136,11 @@
 
 ---
 
-### App Demo (frontend)
+### App Demo
 
 ---
 
-### App Demo (backendend)
+### Architecture
 
 ---
 
