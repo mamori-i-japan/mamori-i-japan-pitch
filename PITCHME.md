@@ -153,6 +153,16 @@
 
 +++
 
+### topic
+
+- 全体シーケンス
+- 採用技術/デザインパターン@インフラ
+- 採用技術/デザインパターン@Android
+- 採用技術/デザインパターン@iOS
+
+
++++
+
 ### reference
 
 - https://github.com/mamori-i-japan/mamori-i-japan-api
@@ -162,7 +172,7 @@
 ### 匿名性への配慮 (認証,ID生成)
 
 #### speakers
-- BE: **Yash Murty** , 御供翔豪**
+- BE: **Yash Murty** , 御供翔豪
 - FE: 中平健太
 
 +++
