@@ -208,7 +208,7 @@
 #### 認証シーケンス / Authentication sequence
 @snapend
 
-@snap[span-100]
+@snap[south span-90]
 ![Authentication](https://raw.githubusercontent.com/mamori-i-japan/mamori-i-japan-api/master/docs/auth.svg)
 @snapend
 
