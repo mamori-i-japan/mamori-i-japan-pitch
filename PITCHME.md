@@ -170,6 +170,8 @@
 ---
 
 ### 匿名性への配慮 (認証,ID生成)
+###### Support Anonymous users 
+###### (Authentication, ID generation)
 
 #### speakers
 - BE: **Yash Murty** , 御供翔豪
@@ -179,11 +181,37 @@
 
 ### topic
 
-- 認証シーケンス
-- 採用した技術
-- 認証処理クライアントの話
+- 採用した技術 / Technology adopted
+- 認証シーケンス / Authentication sequence
+- 認証処理クライアントの話 / Authentication process on client
 
 +++
+
+@snap[north span-100]
+#### 採用した技術 / Technology adopted
+@snapend
+
+@snap[west span-55 text-08]
+###### Firebase Authentication
+- Anonymous Authentication
+  - For iOS/Android Users
+- Email Link Authentication
+  - For Web Admin Users
+@snapend
+
+@snap[east span-45]
+![Firebase](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg)
+@snapend
+
++++
+
+@snap[north span-89]
+![Authentication](https://raw.githubusercontent.com/mamori-i-japan/mamori-i-japan-api/master/docs/auth.svg)
+@snapend
+
++++
+
+
 
 ### reference
 
