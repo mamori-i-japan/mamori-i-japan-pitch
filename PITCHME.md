@@ -180,11 +180,30 @@
 
 ### topic
 
-- 認証シーケンス / Authentication sequence
 - 採用した技術 / Technology adopted
+- 認証シーケンス / Authentication sequence
 - 認証処理クライアントの話 / Authentication process on client
 
 +++
+
+#### 採用した技術 / Technology adopted
+
+@snap[west span-55]
+###### Firebase Authentication
+- Anonymous Authentication
+  - For iOS/Android Users
+- Email Link Authentication
+  - For Web Admin Users
+@snapend
+
+@snap[north-east span-45]
+![Firebase](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg)
+@snapend
+
+
+
++++
+
 
 ### reference
 
