@@ -145,9 +145,17 @@
 
 +++
 
+### 接触確認アプリのいろいろ
+
+![Image](https://i.imgur.com/fqzvviC.png)
+
+- 参考 [資料１－１：接触確認アプリの導入に向けた取組について（案）](https://cio.go.jp/sites/default/files/uploads/documents/techteam_20200508_01.pdf)
+
++++
+
 ### アプリの基本フロー
 
-![Image](https://i.imgur.com/dduinZz.png)
+![Image](https://i.imgur.com/4rza4Rq.png)
 
 +++
 
