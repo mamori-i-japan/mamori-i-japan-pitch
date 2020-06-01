@@ -143,6 +143,18 @@
 - BE: 御供翔豪
 - FE: 中平健太, 松熊俊和, 大澤由憲
 
++++
+
+### アプリの基本フロー
+
+![Image](https://i.imgur.com/dduinZz.png)
+
++++
+
+### アプリ設計 Overview
+
+![Image](https://i.imgur.com/DgrX719.png)
+
 ---
 
 ### アーキテクチャ, 技術スタック
