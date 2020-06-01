@@ -170,6 +170,7 @@
 ---
 
 ### 匿名性への配慮 (認証,ID生成)
+### Support Anonymity (Authentication, ID generation)
 
 #### speakers
 - BE: **Yash Murty** , 御供翔豪
@@ -179,9 +180,9 @@
 
 ### topic
 
-- 認証シーケンス
-- 採用した技術
-- 認証処理クライアントの話
+- 認証シーケンス / Authentication sequence
+- 採用した技術 / Technology adopted
+- 認証処理クライアントの話 / Authentication process on client
 
 +++
 
