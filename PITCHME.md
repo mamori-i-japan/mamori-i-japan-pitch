@@ -204,7 +204,7 @@
 
 +++
 
-@snap[south span-80]
+@snap[span-85]
 ![Authentication](https://raw.githubusercontent.com/mamori-i-japan/mamori-i-japan-api/master/docs/auth.svg)
 @snapend
 
